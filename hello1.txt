@@ -1,0 +1,20 @@
+  <name>mybatis-project01</name>
+
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+    <!--MyBatis的依赖-->
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis</artifactId>
+      <version>3.5.0</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+    <!--MySQL的依赖-->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.46</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+    <!--log4j的日志依赖-->
+    <dependency>
